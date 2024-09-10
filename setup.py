@@ -8,8 +8,8 @@ with open('README.md', 'r', encoding='utf-8') as f:
 __version__ = "0.0.4"
 REPO_NAME = "mongodbconnectorpkg"
 PKG_NAME= "databaseautomation"
-AUTHOR_USER_NAME = "sunnysavita10"
-AUTHOR_EMAIL = "sunny.savita@ineuron.ai"
+AUTHOR_USER_NAME = "ahmednoor"
+AUTHOR_EMAIL = "sheikhahmednoor00@gmail.com"
 
 setup(
     name=PKG_NAME,
